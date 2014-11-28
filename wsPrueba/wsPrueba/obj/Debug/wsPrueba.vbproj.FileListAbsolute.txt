@@ -1,0 +1,63 @@
+C:\tanner\Labs\wsPrueba\wsPrueba\bin\wsPrueba.dll
+C:\tanner\Labs\wsPrueba\wsPrueba\bin\wsPrueba.pdb
+C:\tanner\Labs\wsPrueba\wsPrueba\bin\wsPrueba.xml
+C:\tanner\Labs\wsPrueba\wsPrueba\obj\Debug\ResolveAssemblyReference.cache
+C:\tanner\Labs\wsPrueba\wsPrueba\obj\Debug\wsPrueba.Resources.resources
+C:\tanner\Labs\wsPrueba\wsPrueba\obj\Debug\wsPrueba.vbproj.GenerateResource.Cache
+C:\tanner\Labs\wsPrueba\wsPrueba\obj\Debug\wsPrueba.dll
+C:\tanner\Labs\wsPrueba\wsPrueba\obj\Debug\wsPrueba.xml
+C:\tanner\Labs\wsPrueba\wsPrueba\obj\Debug\wsPrueba.pdb
+C:\Users\JJCARREÑO\Desktop\wsPrueba\wsPrueba\bin\wsPrueba.dll
+C:\Users\JJCARREÑO\Desktop\wsPrueba\wsPrueba\bin\wsPrueba.pdb
+C:\Users\JJCARREÑO\Desktop\wsPrueba\wsPrueba\bin\wsPrueba.xml
+C:\Users\JJCARREÑO\Desktop\wsPrueba\wsPrueba\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JJCARREÑO\Desktop\wsPrueba\wsPrueba\obj\Debug\wsPrueba.Resources.resources
+C:\Users\JJCARREÑO\Desktop\wsPrueba\wsPrueba\obj\Debug\wsPrueba.vbproj.GenerateResource.Cache
+C:\Users\JJCARREÑO\Desktop\wsPrueba\wsPrueba\obj\Debug\wsPrueba.dll
+C:\Users\JJCARREÑO\Desktop\wsPrueba\wsPrueba\obj\Debug\wsPrueba.xml
+C:\Users\JJCARREÑO\Desktop\wsPrueba\wsPrueba\obj\Debug\wsPrueba.pdb
+C:\Users\JJCARREÑO\Desktop\Resp_Proyecto\Respaldo Proyecto 04-10-2014\wsPrueba\wsPrueba\bin\wsPrueba.dll
+C:\Users\JJCARREÑO\Desktop\Resp_Proyecto\Respaldo Proyecto 04-10-2014\wsPrueba\wsPrueba\bin\wsPrueba.pdb
+C:\Users\JJCARREÑO\Desktop\Resp_Proyecto\Respaldo Proyecto 04-10-2014\wsPrueba\wsPrueba\bin\wsPrueba.xml
+C:\Users\JJCARREÑO\Desktop\Resp_Proyecto\Respaldo Proyecto 04-10-2014\wsPrueba\wsPrueba\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JJCARREÑO\Desktop\Resp_Proyecto\Respaldo Proyecto 04-10-2014\wsPrueba\wsPrueba\obj\Debug\wsPrueba.Resources.resources
+C:\Users\JJCARREÑO\Desktop\Resp_Proyecto\Respaldo Proyecto 04-10-2014\wsPrueba\wsPrueba\obj\Debug\wsPrueba.vbproj.GenerateResource.Cache
+C:\Users\JJCARREÑO\Desktop\Resp_Proyecto\Respaldo Proyecto 04-10-2014\wsPrueba\wsPrueba\obj\Debug\wsPrueba.dll
+C:\Users\JJCARREÑO\Desktop\Resp_Proyecto\Respaldo Proyecto 04-10-2014\wsPrueba\wsPrueba\obj\Debug\wsPrueba.xml
+C:\Users\JJCARREÑO\Desktop\Resp_Proyecto\Respaldo Proyecto 04-10-2014\wsPrueba\wsPrueba\obj\Debug\wsPrueba.pdb
+C:\Users\JJCARREÑO\Desktop\wsPrueba - PAUTA DESARROLLO AGIL\wsPrueba\bin\wsPrueba.dll
+C:\Users\JJCARREÑO\Desktop\wsPrueba - PAUTA DESARROLLO AGIL\wsPrueba\bin\wsPrueba.pdb
+C:\Users\JJCARREÑO\Desktop\wsPrueba - PAUTA DESARROLLO AGIL\wsPrueba\bin\wsPrueba.xml
+C:\Users\JJCARREÑO\Desktop\wsPrueba - PAUTA DESARROLLO AGIL\wsPrueba\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JJCARREÑO\Desktop\wsPrueba - PAUTA DESARROLLO AGIL\wsPrueba\obj\Debug\wsPrueba.Resources.resources
+C:\Users\JJCARREÑO\Desktop\wsPrueba - PAUTA DESARROLLO AGIL\wsPrueba\obj\Debug\wsPrueba.vbproj.GenerateResource.Cache
+C:\Users\JJCARREÑO\Desktop\wsPrueba - PAUTA DESARROLLO AGIL\wsPrueba\obj\Debug\wsPrueba.dll
+C:\Users\JJCARREÑO\Desktop\wsPrueba - PAUTA DESARROLLO AGIL\wsPrueba\obj\Debug\wsPrueba.xml
+C:\Users\JJCARREÑO\Desktop\wsPrueba - PAUTA DESARROLLO AGIL\wsPrueba\obj\Debug\wsPrueba.pdb
+E:\wsPrueba - PAUTA DESARROLLO AGIL\wsPrueba\bin\wsPrueba.dll
+E:\wsPrueba - PAUTA DESARROLLO AGIL\wsPrueba\bin\wsPrueba.pdb
+E:\wsPrueba - PAUTA DESARROLLO AGIL\wsPrueba\bin\wsPrueba.xml
+E:\wsPrueba - PAUTA DESARROLLO AGIL\wsPrueba\obj\Debug\ResolveAssemblyReference.cache
+E:\wsPrueba - PAUTA DESARROLLO AGIL\wsPrueba\obj\Debug\wsPrueba.Resources.resources
+E:\wsPrueba - PAUTA DESARROLLO AGIL\wsPrueba\obj\Debug\wsPrueba.vbproj.GenerateResource.Cache
+E:\wsPrueba - PAUTA DESARROLLO AGIL\wsPrueba\obj\Debug\wsPrueba.dll
+E:\wsPrueba - PAUTA DESARROLLO AGIL\wsPrueba\obj\Debug\wsPrueba.xml
+E:\wsPrueba - PAUTA DESARROLLO AGIL\wsPrueba\obj\Debug\wsPrueba.pdb
+C:\Users\Roberto\Desktop\Ultimo Sprint Proyecto Desarrollo Software\wsPrueba Ultimo\wsPrueba\bin\wsPrueba.dll
+C:\Users\Roberto\Desktop\Ultimo Sprint Proyecto Desarrollo Software\wsPrueba Ultimo\wsPrueba\bin\wsPrueba.pdb
+C:\Users\Roberto\Desktop\Ultimo Sprint Proyecto Desarrollo Software\wsPrueba Ultimo\wsPrueba\bin\wsPrueba.xml
+C:\Users\Roberto\Desktop\Ultimo Sprint Proyecto Desarrollo Software\wsPrueba Ultimo\wsPrueba\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Roberto\Desktop\Ultimo Sprint Proyecto Desarrollo Software\wsPrueba Ultimo\wsPrueba\obj\Debug\wsPrueba.Resources.resources
+C:\Users\Roberto\Desktop\Ultimo Sprint Proyecto Desarrollo Software\wsPrueba Ultimo\wsPrueba\obj\Debug\wsPrueba.vbproj.GenerateResource.Cache
+C:\Users\Roberto\Desktop\Ultimo Sprint Proyecto Desarrollo Software\wsPrueba Ultimo\wsPrueba\obj\Debug\wsPrueba.dll
+C:\Users\Roberto\Desktop\Ultimo Sprint Proyecto Desarrollo Software\wsPrueba Ultimo\wsPrueba\obj\Debug\wsPrueba.xml
+C:\Users\Roberto\Desktop\Ultimo Sprint Proyecto Desarrollo Software\wsPrueba Ultimo\wsPrueba\obj\Debug\wsPrueba.pdb
+C:\Users\JJCARREÑO\Desktop\Proyecto al 22-11-2014\wsPrueba Ultimo\wsPrueba\bin\wsPrueba.dll
+C:\Users\JJCARREÑO\Desktop\Proyecto al 22-11-2014\wsPrueba Ultimo\wsPrueba\bin\wsPrueba.pdb
+C:\Users\JJCARREÑO\Desktop\Proyecto al 22-11-2014\wsPrueba Ultimo\wsPrueba\bin\wsPrueba.xml
+C:\Users\JJCARREÑO\Desktop\Proyecto al 22-11-2014\wsPrueba Ultimo\wsPrueba\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JJCARREÑO\Desktop\Proyecto al 22-11-2014\wsPrueba Ultimo\wsPrueba\obj\Debug\wsPrueba.Resources.resources
+C:\Users\JJCARREÑO\Desktop\Proyecto al 22-11-2014\wsPrueba Ultimo\wsPrueba\obj\Debug\wsPrueba.vbproj.GenerateResource.Cache
+C:\Users\JJCARREÑO\Desktop\Proyecto al 22-11-2014\wsPrueba Ultimo\wsPrueba\obj\Debug\wsPrueba.dll
+C:\Users\JJCARREÑO\Desktop\Proyecto al 22-11-2014\wsPrueba Ultimo\wsPrueba\obj\Debug\wsPrueba.xml
+C:\Users\JJCARREÑO\Desktop\Proyecto al 22-11-2014\wsPrueba Ultimo\wsPrueba\obj\Debug\wsPrueba.pdb
